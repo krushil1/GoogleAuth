@@ -1,0 +1,9 @@
+.main {
+    background-color: rgb(51, 51, 51);
+    color: rgb(163, 163, 163);
+}
+
+.profilePic {
+    border-radius: 50px;
+    height: 40px;
+}
